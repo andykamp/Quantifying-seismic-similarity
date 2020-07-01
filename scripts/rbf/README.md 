@@ -1,0 +1,2 @@
+# RBF network implementation. 
+Code related to the implementation of a radial based neural network utilized as a variance estimater in the variational autoencoder.
