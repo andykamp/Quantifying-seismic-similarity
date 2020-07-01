@@ -5,6 +5,6 @@ The notebooks follow the following order:
 
 2. (2_patch_and_standard_learners) Code for gridding a seismic survey up in patches with a certain size, and configurations, training, and result from all standards learners.
 
-3. (3_vae_impementation) Configurations, training, and result from Variational Autoencoder (VAE)
+3. (3_vae_impementation) Configurations, training, and result from the Variational Autoencoder (VAE)
 
 4. (4_shortest_path) Code for calculating and showcasing the shortest path on the induces riemann geometry from the VAE.
